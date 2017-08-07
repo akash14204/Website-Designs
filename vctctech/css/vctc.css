@@ -1,0 +1,380 @@
+
+Editing:  
+/home/vctctech/public_html/css/vctc.css
+ Encoding:    Re-open Use Code Editor     Close  Save Changes
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
+
+
+
+a{
+	color:white;
+	text-decoration:none;
+	color:#202020;
+}
+a:hover{
+	text-decoration:none;
+}
+
+/* navbar */
+.navbar-default {
+	border:2px solid;
+    border-color: #6670ff;
+	border-radius:0px;
+	background:#6670ff;
+}
+
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #eee;
+	text-shadow:#eee;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: white;
+	background-color:transparent;
+}
+
+
+/* mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #bc6c00;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+ 
+/*NAVBAR CLOSES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER Home*/
+.home
+{
+
+ 
+    background: url("../image/ok1.jpg") no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:#f0f0f0;
+height:650px;
+text-align:left;
+margin-top:-30px;
+
+
+}
+
+
+
+.home1
+{
+
+ 
+    background: url("../image/W.png") no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:#f0f0f0;
+height:350px;
+text-align:center;
+
+
+}
+
+
+
+
+
+.home2
+{
+
+ 
+    background: url("../image/ee9.jpg") no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:#f0f0f0;
+height:380px;
+text-align:center;
+
+
+}
+
+
+
+
+
+
+.home3
+{
+
+ 
+    background: url("../image/qaa.png") no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:#f0f0f0;
+height:380px;
+text-align:center;
+
+
+}
+
+
+
+
+
+.home4
+{
+
+ 
+    background-color:white; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:black;
+height:480px;
+text-align:center;
+
+
+}
+
+
+.home5
+{
+
+ 
+    background-color:#84FFFF; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+color:black;
+height:480px;
+text-align:center;
+
+
+}
+
+
+
+
+
+.home_heading{
+background-color:white;
+color:black;
+height:100%;
+}
+.hero h4 {
+    font-size: 3em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+	max-width:100%;
+	padding:15px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+    border-color:white;
+	background-color:transparent;
+	width:140px;
+	color:white;
+	height:35px;
+	border-radius:0px;
+	
+	
+}
+
+.btn:hover {
+    border-color:white;
+	background-color:white;
+	width:140px;
+	color:black;
+	height:35px;
+	border-radius:0px;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.box5{
+	background-color:#eee;
+	padding:30px;
+	 box-shadow: 10px 10px 5px #888888;
+}
+
+.box1{
+	background-color:#eee;
+	padding:30px;
+}
+/*box padding and pannel*/
+.box{
+	padding:17px;
+	
+}
+.panel{
+	background-color:#ec8800;
+	border-radius:10px;
+	
+}
+.panel-body{
+	background-color:white;
+	border-radius:10px;
+}
+
+
+
+
+
+
+
+
+
+
+.footer {
+    overflow: hidden;
+    height: auto;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.8);
+    background-color:#292c2f;
+	
+  }
+  
+.footer-copyright {
+    overflow: hidden;
+    height: 50px;
+    line-height: 50px;
+    color: rgba(255, 255, 255, 0.8);
+    background-color:teal;
+	
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .box_box{
+	border:1px solid #ec8800;
+	background-color:white;
+	border-radius:20px;
+	text-align:left;
+}
+ 
+   
+  .modal-dialog{
+	  overflow-y:initial;
+  }
+
+  .modal-body{
+	  height:520px;
+	  overflow-y:auto;
+  }
+    .con{
+	  height:auto;
+	  overflow-y:auto;
+  }
+     .info{
+	  height:auto;
+	  overflow-y:auto;
+  }
+  
+  
+
+ /*INPUT CSS*/        
+.inp{	
+border-bottom: 1px solid #eee;
+border-top:0px;
+border-left:0px;
+border-right:0px;
+padding: 7px 12px;
+width:460px;
+outline: none;	
+}
+/*INPUT CSS FINISH*/
+
+
+.im{
+	
+}
+
+
+
+
+
+
+/*CIRLE GRAPHICS*/
+.head{
+	padding: px;
+	border-radius: 500px;
+	transition: 0.2s;	
+}
+.head:hover{
+	margin-top: -3px;
+	transition: 0.s;
+	margin:-2px;  /*for press effect on circle*/
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 5px; /*for corner shadow effect in circle */	
+}
+/*FINISH*/

@@ -1,0 +1,175 @@
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+    color:#202020;
+	overflow-x:hidden;
+	background:#eee;
+}
+
+
+a{
+	color:white;
+	text-decoration:none;
+	color:#202020;
+}
+a:hover{
+	text-decoration:none;
+}
+
+/* navbar */
+.navbar-default {
+	border:2px solid;
+    border-color: #777;
+	border-radius:0px;
+	background:#1d9d74;
+}
+
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #eee;
+	text-shadow:#eee;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #1d9d74;
+	background-color:#eee;
+}
+
+
+/* mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #1d9d74;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+ 
+/*NAVBAR CLOSES*/
+
+
+/*box padding and pannel*/
+.box{
+	padding:17px;
+	
+}
+.panel{
+	background-color:#1d9d74;
+	border-radius:10px;
+	
+}
+.panel-body{
+	background-color:white;
+	border-radius:10px;
+}
+
+
+/*giving border to carousel*/
+.carousel{
+	border:2px #1d9d74 solid;
+	
+}
+.box1{
+	background-color:white;
+	padding:30px;
+}
+
+
+.img1{
+	width:100%;
+	height:100%;
+}
+
+
+
+
+/*Box which static*/
+
+.box5{
+	height:300px;
+		 background: url("../image/all.jpg") no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;	
+    padding-right:0px !important;
+    margin-right:0px !important;
+}
+
+
+
+/*BUTTON CSS*/
+.btn {
+    border-color:#1d9d74;
+	background-color:transparent;
+	width:115px;
+	color:#1d9d74;
+	height:35px;
+	border-radius:0px;
+	
+}
+.btn:hover{
+    border-color:#1d9d74;
+	background-color:#1d9d74;
+	width:115px;
+	color:white;
+	height:35px;
+	border-radius:0px;
+}
+.btn3 {
+    border-color:#1d9d74;
+	background-color:#1d9d74;
+	width:115px;
+	color:white;
+	height:35px;
+	
+}
+.btn5 {
+   border-color:#1d9d74;
+	background-color:#1d9d74;
+	width:115px;
+	color:white;
+	height:35px;
+	border-radius:0px;
+        border:0px;
+	
+}
+
+
+.btn2 {
+    border-color:white;
+	background-color:transparent;
+	width:245px;
+	color:white;
+	height:35px;
+}
+.btn2:hover{
+    border-color:black;
+	background-color:white;
+	width:245px;
+	color:black;
+	height:35px;
+}
+
+
+.footer {
+    overflow: hidden;
+    height: auto;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.8);
+    background-color:#292c2f;
+	
+  }
+  
+.footer-copyright {
+    overflow: hidden;
+    height: 50px;
+    line-height: 50px;
+    color: rgba(255, 255, 255, 0.8);
+    background-color:#1d9d74;
+	
+  }
+  
